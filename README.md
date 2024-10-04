@@ -43,14 +43,8 @@ I am a passionate **Red Team Specialist** and cybersecurity enthusiast with adva
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adel-ait-mouali/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adelaitmouali)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adelaitmouali)
 
-## 📚 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Advanced Penetration Testing Techniques](https://yourblog.com/advanced-penetration-testing)
-- [Securing Cloud Infrastructure: Best Practices](https://yourblog.com/securing-cloud-infrastructure)
-- [Ethical Hacking: A Beginner's Guide](https://yourblog.com/ethical-hacking-guide)
-<!-- BLOG-POST-LIST:END -->
+
 
 ⭐️ From [adelaitmouali](https://github.com/adelaitmouali)
