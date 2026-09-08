@@ -33,10 +33,8 @@ I am a passionate **Red Team Specialist** and cybersecurity enthusiast with adva
 ![Wazuh](https://img.shields.io/badge/Wazuh-1A73E8?style=for-the-badge)
 
 ## 🏆 Achievements
-- Top 1% on TryHackMe
+- Completed over 250 rooms on Tryhackme
 - Completed over 50 rooms on HackTheBox
-- Contributed to multiple open-source security projects
-
 ## 📊 GitHub Stats
 
 ![Adel's GitHub stats](https://github-readme-stats.vercel.app/api?username=adelaitmouali&show_icons=true&theme=radical)
